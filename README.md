@@ -28,7 +28,7 @@ Infer is broad and covers, or intends to cover, most of what you'll find in stat
 
 - *matrices*: wraps the [UJMP](http://www.ujmp.org/) matrix package, which provides an expressive and expansive set of efficient matrix operations.  (examples)
 
-- *probabilities*:  a language for dealing with probabilities.  composable into constructs like graphical models, tress, classifiers, etc.
+- *probabilities*:  a language for dealing with probabilities.  composable into constructs like graphical models, trees, classifiers, etc.
 
 - *measures*: a vast library of measure functions, statistics, and the like.  Everything you want for measuring things in your learners.  We also have man information-theoretic measures in *information-theory*.
 
